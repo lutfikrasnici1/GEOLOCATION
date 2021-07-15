@@ -1,0 +1,35 @@
+PUT REQUEST FOR UPDATE EXAMPLE 
+
+http://localhost:3000/api/users/60f049d3dc122b17d44c9b1b
+
+
+GET REQUEST FOR ALL USERS
+
+
+http://localhost:3000/api/users/
+
+
+
+GET REQUEST FOR USERS NEAR ME 
+
+
+http://localhost:3000/api/users/?Latitude=42.235134&Longtitude=20.772574
+
+
+DELETE REQUEST FOR USER
+
+
+http://localhost:3000/api/users/60f053b2687aa2101c1eef1f
+
+
+POST REQUEST FOR ADDING USER
+
+
+http://localhost:3000/api/users/
+
+
+
+
+
+
+
