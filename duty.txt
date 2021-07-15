@@ -1,0 +1,7 @@
+Create NodeJs API with these requirements:
+1. Create CRUD endpoints for User
+2. Add MongoDB connection and setup in NodeJS
+2. Create User collection(schema) in MongoDB with properties like: FirstName, LastName, AddressLine1, City,Country, Latitude and Longitude.
+3. For GET endpoints create ‘Get All Users ‘ endpoint and create ‘Get Near Users’ based on my location (my latitude,longitude)
+4. When you create ‘Get Near Users’ endpoint the response from API should be users in that area like (100 meters )
+5. When you create all of these tasks then you should be able to push the codebase to the Github, you can add your code as a public repository in Github
